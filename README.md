@@ -11,6 +11,9 @@ Esse repositório é uma coleção de dicas para todos os brasileiros que querem
 * To
 
 
+## Dicas gerais.
+Tenha sempre uma história de algum desafio profissional que você tenha superado, use o [STAR method](https://en.wikipedia.org/wiki/Situation,_task,_action,_result) para estruturar sua história. 
+
 ## Livros interessantes
 
 Nome | Autor | Descrição
