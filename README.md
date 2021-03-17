@@ -1,7 +1,7 @@
 # Cracking Interviews
 
 Esse repositório é uma coleção de dicas para todos os brasileiros que querem trabalhar no exterior ou remotamente para uma empresa extrangeira e que se preparar para a entrevista. 
-
+Contribuições nesse repositório são muito bem vindas.
 
 
 ## Palavras que Brasileiros tem dificuldade de pronunciar corretamente:
