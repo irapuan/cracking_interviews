@@ -23,6 +23,10 @@ Contribuições nesse repositório são muito bem vindas.
 * Falar que você odeia código legado pode soar negativo, é melhor dizer que você gosta de explorar tecnológias novas.
 * Se você mencionar algum termo técnico no seu CV, como um framework, uma metodología ou um padrão esteja preparado para explicar o que significa ou responder perguntas sobre o assunto.
 
+## Links importantes
+[Numbeo](https://www.numbeo.com) Site colaborativo com informações sobre custo e qualidade de vida em várias cidades do mundo.
+[Levels.fyi](https://www.levels.fyi/) Site com informações sobre salários de várias empresa pelo mundo.
+
 ## Livros interessantes
 
 Nome | Autor | Descrição
