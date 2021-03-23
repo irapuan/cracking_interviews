@@ -5,6 +5,8 @@ Contribuições nesse repositório são muito bem vindas.
 
 
 ## Palavras que Brasileiros tem dificuldade de pronunciar corretamente:
+* Abroad
+* Answer
 * Bureaucracy
 * Data, Data Analysis, Database
 * Development, Developer
